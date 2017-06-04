@@ -5,6 +5,8 @@
 #
 # docker installation necessary
 # tested with mysql /mariadb image
+#
+# version 0.2
 
 oc_db_host="owncloud_db_1"
 oc_instance_host="owncloud_owncloud_1"
