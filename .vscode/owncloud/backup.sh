@@ -2,6 +2,9 @@
 #
 # docker based owncloud backup script for database + triogger for maintenance mode
 # Owncloud credentials read from instance directly, no local config necessary
+#
+# docker installation necessary
+# tested with mysql /mariadb image
 
 oc_db_host="owncloud_db_1"
 oc_instance_host="owncloud_owncloud_1"
